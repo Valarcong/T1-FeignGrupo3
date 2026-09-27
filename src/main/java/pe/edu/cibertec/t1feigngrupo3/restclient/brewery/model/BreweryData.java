@@ -1,4 +1,4 @@
-package com.cibertec.t1feigngrupo3.restclient.brewery.model;
+package pe.edu.cibertec.t1feigngrupo3.restclient.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

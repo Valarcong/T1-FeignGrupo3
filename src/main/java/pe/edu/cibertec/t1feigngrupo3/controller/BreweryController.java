@@ -1,4 +1,4 @@
-package com.cibertec.t1feigngrupo3.controller;
+package pe.edu.cibertec.t1feigngrupo3.controller;
 
 import java.util.List;
 
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.cibertec.t1feigngrupo3.restclient.brewery.model.BreweryData;
-import com.cibertec.t1feigngrupo3.service.BreweryService;
+import pe.edu.cibertec.t1feigngrupo3.restclient.brewery.model.BreweryData;
+import pe.edu.cibertec.t1feigngrupo3.service.BreweryService;
 
 import lombok.RequiredArgsConstructor;
 
