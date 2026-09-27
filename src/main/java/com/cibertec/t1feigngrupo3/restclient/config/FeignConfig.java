@@ -1,6 +1,6 @@
-package com.cibertec.t1_feigngrupo1.restclient.config;
+package com.cibertec.t1feigngrupo3.restclient.config;
 
-import com.cibertec.t1_feigngrupo1.restclient.errorhandler.CustomErrorDecoder;
+import com.cibertec.t1feigngrupo3.restclient.errorhandler.CustomErrorDecoder;
 import feign.codec.ErrorDecoder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

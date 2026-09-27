@@ -1,4 +1,4 @@
-package com.cibertec.t1_feigngrupo1.restclient.config;
+package com.cibertec.t1feigngrupo3.restclient.config;
 
 import org.springframework.context.annotation.Configuration;
 

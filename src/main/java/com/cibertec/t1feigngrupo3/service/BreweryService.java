@@ -1,7 +1,7 @@
-package com.cibertec.t1_feigngrupo1.service;
+package com.cibertec.t1feigngrupo3.service;
 
-import com.cibertec.t1_feigngrupo1.restclient.brewery.iclient.BreweryClient;
-import com.cibertec.t1_feigngrupo1.restclient.brewery.model.BreweryData;
+import com.cibertec.t1feigngrupo3.restclient.brewery.iclient.BreweryClient;
+import com.cibertec.t1feigngrupo3.restclient.brewery.model.BreweryData;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

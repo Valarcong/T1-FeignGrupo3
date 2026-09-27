@@ -1,4 +1,4 @@
-package com.cibertec.t1_feigngrupo1.restclient.errorhandler;
+package com.cibertec.t1feigngrupo3.restclient.errorhandler;
 
 import feign.Response;
 import feign.codec.ErrorDecoder;

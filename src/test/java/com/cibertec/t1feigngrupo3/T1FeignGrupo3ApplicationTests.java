@@ -1,10 +1,10 @@
-package com.cibertec.t1_feigngrupo1;
+package com.cibertec.t1feigngrupo3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class T1Feigngrupo1ApplicationTests {
+class T1FeignGrupo3ApplicationTests {
 
 	@Test
 	void contextLoads() {
